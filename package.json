@@ -1,0 +1,22 @@
+{
+  "name": "tdd-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {
+    "axios-mock-adapter": "^1.10.0",
+    "flush-promises": "^1.0.0"
+  },
+  "jest": {
+
+  }
+}
